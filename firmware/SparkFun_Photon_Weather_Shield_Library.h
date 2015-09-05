@@ -43,7 +43,7 @@
  <http://www.gnu.org/licenses/>.
  */
 
-#include "application.h"//needed for all Particle libraries
+//#include "application.h"//needed for all Particle libraries
 
 #ifndef SparkFun_Photon_Weather_Shield_Library_h
 #define SparkFun_Photon_Weather_Shield_Library_h
